@@ -1,0 +1,25 @@
+{
+  "name": "pino-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pino-app.js",
+  "scripts": {
+    "start": "node pino-app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlfonsoAnaValentina/pino-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlfonsoAnaValentina/pino-app/issues"
+  },
+  "homepage": "https://github.com/AlfonsoAnaValentina/pino-app#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "0.0.1-security"
+  }
+}
