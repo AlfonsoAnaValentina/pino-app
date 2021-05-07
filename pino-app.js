@@ -10,7 +10,7 @@ app.use(express.json())
 const URL_BACKEND = 'http://138.68.36.225:80';
 const URL_FRONTEND_FAKE = 'http://138.197.233.166';
 const URL_FRONTEND_FAKE_HOST = 'api.timelogbook.com';
-
+console.log(URL_BACKEND);
 
 app.options('/*', function (req, res) {
     var options = {
